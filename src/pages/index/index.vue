@@ -38,7 +38,7 @@
 export default {
   data () {
     return {
-     title_name:"热门",
+     title_name:"推荐",
      grids:[
        {title:"美食",image:"/static/images/1.png"},
        {title:"景区",image:"/static/images/2.png"},
@@ -49,7 +49,7 @@ export default {
        {name:"黄鹤楼",address:"地址：武汉市武昌区蛇山西山坡特1号",image:"/static/images/黄鹤楼.jpg",remark:"黄鹤楼位于武昌蛇山之巅，濒临万里长江，是国家5A级旅游景区，“江南三大名楼”之一，自古享有“天下江山第一楼“和”天下绝景“之称。黄鹤楼是武汉市标志性建筑，与晴川阁、古琴台并称“武汉三大名胜”。"},
        {name:"户部巷",address:"地址：湖北省武汉市解放路457附3号",image:"/static/images/户部巷.jpg",remark:"户部巷是一条长150米的百年老巷，被誉为“汉味小吃第一巷”，其繁华的早点摊群数十年经久不衰。"},
        {name:"湖北省博物馆",address:"地址：武汉市武昌区东湖路160号",image:"/static/images/湖北省博物馆.jpg",remark:"湖北省博物馆现有馆藏文物26万余件(套)，以青铜器、漆木器、简牍最有特色，其中国家一级文物945件(套)、国宝级文物16件(套)。越王勾践剑、曾侯乙编钟、郧县人头骨化石、元青花四爱图梅瓶为该馆四大镇馆之宝。要想了解湖北省的历史，湖北省博物馆绝对是第一选择！"},
-       {name:"武汉大学",address:"地址：",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4"}
+       {name:"武汉大学",address:"地址：湖北省武汉市洪山区珞喻路129号",image:"/static/images/武汉大学.jpg",remark:"武汉大学，简称“武大”，是由中华人民共和国教育部直属的全国重点大学，每年樱花盛开的时候，全国各地的人们纷纷来到武汉大学，赏樱花。因此武汉大学绝对是一所集实力与颜值为一体的高校。"}
      ],
       imgUrls: [
         '/static/images/WH1.jpg',
