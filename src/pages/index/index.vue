@@ -46,20 +46,21 @@ export default {
        {title:"高校",image:"/static/images/4.png"}
      ],
      top:[
-       {name:"店名1",address:"地址1",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍1"},
-       {name:"店名2",address:"地址2",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍2"},
-       {name:"店名3",address:"地址3",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍3"},
-       {name:"店名4",address:"地址4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4"}
+       {name:"黄鹤楼",address:"地址：武汉市武昌区蛇山西山坡特1号",image:"/static/images/黄鹤楼.jpg",remark:"黄鹤楼位于武昌蛇山之巅，濒临万里长江，是国家5A级旅游景区，“江南三大名楼”之一，自古享有“天下江山第一楼“和”天下绝景“之称。黄鹤楼是武汉市标志性建筑，与晴川阁、古琴台并称“武汉三大名胜”。"},
+       {name:"户部巷",address:"地址：湖北省武汉市解放路457附3号",image:"/static/images/户部巷.jpg",remark:"户部巷是一条长150米的百年老巷，被誉为“汉味小吃第一巷”，其繁华的早点摊群数十年经久不衰。"},
+       {name:"湖北省博物馆",address:"地址：武汉市武昌区东湖路160号",image:"/static/images/湖北省博物馆.jpg",remark:"湖北省博物馆现有馆藏文物26万余件(套)，以青铜器、漆木器、简牍最有特色，其中国家一级文物945件(套)、国宝级文物16件(套)。越王勾践剑、曾侯乙编钟、郧县人头骨化石、元青花四爱图梅瓶为该馆四大镇馆之宝。要想了解湖北省的历史，湖北省博物馆绝对是第一选择！"},
+       {name:"武汉大学",address:"地址：",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4"}
      ],
       imgUrls: [
-        'https://images.unsplash.com/photo-1551334787-21e6bd3ab135?w=640',
-        'https://images.unsplash.com/photo-1551214012-84f95e060dee?w=640',
-        'https://images.unsplash.com/photo-1551446591-142875a901a1?w=640'
+        '/static/images/WH1.jpg',
+        '/static/images/WH2.jpg',
+        '/static/images/WH3.jpg'
       ],
-      indicatorDots: false,
-      autoplay: false,
-      interval: 5000,
-      duration: 1000
+      indicatorDots: true,
+      autoplay: true,
+      circular: true,
+      interval: 4000,
+      duration: 1500
       }
   },
   methods: {
