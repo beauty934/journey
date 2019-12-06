@@ -1,6 +1,6 @@
   [
-        {"name":"美食1","address":"地址1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"},
-        {"name":"美食2","address":"地址2","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍2"},
-        {"name":"美食3","address":"地址3","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍3"},
-        {"name":"美食4","address":"地址4","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍4"}
+        {"name":"热干面","address":"推荐地点：蔡林记","image":"cloud://journey-60a387.6a6f-journey-60a387/images/热干面.jpg","remark":"热干面是湖北武汉最出名的小吃之一"},
+        {"name":"三鲜豆皮","address":"推荐地点：老通城","image":"cloud://journey-60a387.6a6f-journey-60a387/images/三鲜豆皮.jpg","remark":"“三鲜豆皮”是武汉市名点之一，迄今已有40年的历史，享有“豆皮大王”的盛誉。"},
+        {"name":"周黑鸭","address":"推荐地点：火车站、地铁站等多地分布","image":"cloud://journey-60a387.6a6f-journey-60a387/images/周黑鸭.jpg","remark":"卤鸭、鸭副产品，卤制红肉、卤制蔬菜、卤制家禽及水产类等其他产品，其口感很受年轻人喜爱。"},
+        {"name":"面窝","address":"推荐地点：蔡林记","image":"cloud://journey-60a387.6a6f-journey-60a387/images/面窝.jpg","remark":"面窝创始于清光绪年间，因四周厚而中间薄得干脆成了一个小洞，呈凹状，武汉人不习惯叫它“面凹”，而叫它“面窝”。"}
       ]

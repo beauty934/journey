@@ -1,6 +1,6 @@
   [
-        {"name":"游乐1","address":"地址1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"},
-        {"name":"游乐2","address":"地址2","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍2"},
-        {"name":"游乐3","address":"地址3","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍3"},
-        {"name":"游乐4","address":"地址4","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍4"}
+        {"name":"欢乐谷","address":"地址：湖北省武汉市欢乐大道196号","image":"cloud://journey-60a387.6a6f-journey-60a387/images/欢乐谷.jpg","remark":"欢乐谷是主题旅游公园，是武汉市倾力打造的复合型、生态型和创新型的大型文化旅游胜地。"},
+        {"name":"玛雅海滩水公园","address":"地址：湖北武汉东湖旅游风景区欢乐大道196号","image":"cloud://journey-60a387.6a6f-journey-60a387/images/玛雅.jpg","remark":"以玛雅文化为主题，是一座充满异域风情的水主题公园。"},
+        {"name":"东湖海洋世界","address":"地址：武汉市武昌区沿湖大道20号 ","image":"cloud://journey-60a387.6a6f-journey-60a387/images/海洋世界.jpg","remark":"在东湖海洋世界里可尽享亚马逊原始雨林的神秘莫测、海底景观的深邃迷离、海洋生物的斑斓夺目、人鲨共舞的惊心动魄、海兽表演的幽默诙谐、企鹅宝贝的憨态可掬。"},
+        {"name":"中山公园","address":"地址：湖北省武汉市解放大道1265号","image":"cloud://journey-60a387.6a6f-journey-60a387/images/中山公园.jpg","remark":"集休闲、娱乐、游艺等多项服务功能于一身的大型综合性公园，是武汉闹市中的“绿宝石”。"}
       ]
