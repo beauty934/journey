@@ -1,4 +1,5 @@
 {
+    "navigationBarBackgroundColor": "#F0FFF0",
     "navigationBarTitleText": "带你逛武汉",
     "usingComponents": {
         "i-grid": "../../../static/dist/grid/index",

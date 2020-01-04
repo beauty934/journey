@@ -22,8 +22,8 @@
  
 </i-grid>
 <i-panel :title="title_name">
-    <view style="padding: 15px;">
-      <i-card v-for="item in top" :key="item" i-class="split"  :extra="item.name" :thumb="item.image">
+    <view >
+      <i-card  v-for="item in top" :key="item" i-class="split"  :extra="item.name" :thumb="item.image">
          <view slot="content">{{item.remark}}</view>
         <view slot="footer">{{item.address}}</view>
       </i-card>
@@ -60,7 +60,9 @@ export default {
       autoplay: true,
       circular: true,
       interval: 4000,
-      duration: 1500
+      duration: 1500,
+      indicatorColor:"white",
+      indicatorActiveColor:"#E0FFFF"
       }
   },
   methods: {
