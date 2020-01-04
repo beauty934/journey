@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div >
     <swiper
       :indicator-dots="indicatorDots"
       :autoplay="autoplay"

@@ -1,6 +1,5 @@
 {
-  "navigationBarBackgroundColor": "#F0FFF0",
-  "backgroundColor": "#F0FFF0",
+  "navigationBarBackgroundColor": "#A0522D",
   "navigationBarTitleText": "详情列表",
   "usingComponents": {
       "i-grid": "../../../static/dist/grid/index",

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div style="background-image:url(/static/images/背景.jpg);">
     <i-card v-for="item in list" :key="item" i-class="split"  :extra="item.name" :thumb="item.image">
          <view slot="content">{{item.remark}}</view>
         <view slot="footer">{{item.address}}</view>

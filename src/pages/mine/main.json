@@ -1,6 +1,6 @@
 {
   "navigationBarTitleText": "我要推荐",
-  "navigationBarBackgroundColor": "#F0FFF0",
+  "navigationBarBackgroundColor": "#A0522D",
   "usingComponents": {
     "i-button": "../../../static/dist/button/index",
     "i-grid": "../../../static/dist/grid/index",
