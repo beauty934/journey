@@ -1,0 +1,6 @@
+[ 
+    {"id":1,"name":"黄鹤楼","address":"地址：武汉市武昌区蛇山西山坡特1号","image":"cloud://journey-60a387.6a6f-journey-60a387/images/黄鹤楼.jpg","type":1,"latitude": 30.543598,"longitude": 114.304684},
+    {"id":2,"name":"东湖","address":"地址：武汉市武昌区沿湖大道16号","image":"cloud://journey-60a387.6a6f-journey-60a387/images/东湖.jpg","type":1,"latitude": 30.552212,"longitude": 114.409950},
+    {"id":3,"name":"沙湖","address":"地址：湖北省武汉市友谊大道湖北大学旁","image":"cloud://journey-60a387.6a6f-journey-60a387/images/沙湖.jpg","type":1,"latitude": 30.566846,"longitude": 114.335621},
+    {"id":4,"name":"玛雅海滩水公园","address":"地址：湖北武汉东湖旅游风景区欢乐大道196号","image":"cloud://journey-60a387.6a6f-journey-60a387/images/玛雅.jpg","type":1,"latitude": 30.594983,"longitude": 114.395338}
+]

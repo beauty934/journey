@@ -1,0 +1,4 @@
+[
+    {"id":1,"name":"武汉大学","address":"地址：湖北省武汉市洪山区珞喻路129号","image":"cloud://journey-60a387.6a6f-journey-60a387/images/武汉大学.jpg","type":2,"latitude": 30.535062,"longitude": 114.366348},
+    {"id":2,"name":"湖北大学","address":"地址：湖北省武汉市武昌区友谊大道368号","image":"cloud://journey-60a387.6a6f-journey-60a387/images/湖北大学.jpg","type":2,"latitude": 30.576896,"longitude": 114.333904}
+]
